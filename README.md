@@ -2,12 +2,12 @@
 <img width="1024" height="1024" alt="SpinkaRunner" src="https://github.com/user-attachments/assets/882f8b71-48f0-4523-a3f9-170011021a01" />
 
 # About
-A short jumper game made by c4thead/Aster specially for skazka in 2024.12.31
+A short jumper game made by c4thead/Aster specially for skazka in 2024.12.31.
 All textures, sounds, music, lore are original.
 
 # Built with
-Game built on Python 3.12 using PyGame and PyInstaller
-Is a fork of an another jumper game adapted to my likings, ZERO VibeCoded
+Game built on Python 3.12 using PyGame and PyInstaller.
+Is a fork of an another jumper game adapted to my likings, ZERO VibeCoded.
 
 # Lore
 Spinka's Delta Team experienced a huge failure and had to flee the scene.
